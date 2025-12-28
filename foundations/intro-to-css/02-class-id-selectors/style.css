@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.pink {
+    background-color: rgb(255, 182, 193);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+#n2 {
+font-size: 36px;
+color: rgb(2, 2, 255);
+}
+
+.n3 {
+    font-size: 24px;
+}
+
+#n4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
